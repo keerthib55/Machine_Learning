@@ -4,6 +4,7 @@ Welcome to my Machine Learning repository! 🚀
 This repo contains my projects and experiments in Data Science & Machine Learning, where I apply algorithms and real-world datasets to solve business problems.
 
 📂 Projects in this Repository
+
 1️⃣ Churn Prediction Using XGBoost
 
 📌 Goal: Predict whether a bank customer will leave (churn) or stay.
