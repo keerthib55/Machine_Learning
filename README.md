@@ -1,5 +1,5 @@
-🧠 Machine Learning Projects
-
+**🧠 Machine Learning Projects
+**
 Welcome to my Machine Learning repository! 🚀
 This repo contains my projects and experiments in Data Science & Machine Learning, where I apply algorithms and real-world datasets to solve business problems.
 
